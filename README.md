@@ -1,7 +1,7 @@
 # Hi there, I'm Chris! 👋
 
 <a href="https://github.com/CThompson0101/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CThompson0101&show_icons=true&theme=radical&rank_icon=github" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=CThompson0101&show_icons=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/CThompson0101/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CThompson0101&layout=compact&langs_count=8" />
